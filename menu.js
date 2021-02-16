@@ -6,13 +6,13 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 
 「 *LIST MENU* 」
 
-「 VVIPINDO BOT 」
+「 Mkmil BOT 」
 
 ╭════•›「 ${BotName} 」
 ├≽️ *.Menu*
 ├ _Menampilkan list menu_
 ├≽️ *.Group* 
-├ https://chat.whatsapp.com/D2o2iSgtRtpFXD2PWfJBoj
+├ https://chat.whatsapp.com/ESYDxnhJMPI24PmF6qOPaq
 ├≽️ *.Owner*
 ├ _Info Admin bot_
 ╰═══════════════
@@ -155,20 +155,7 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├ _Info tentang tanggal nasional_
 ╰═══════════════
 
-╭════•›「 WEATHER 」
-├≽️ *.Infobmkg*
-├ _Random info dari BMKG_
-├≽️ *.Infogempa*
-├ _Random info gempa_
-├≽️ *.Cuaca (nama daerah)*
-├ _Ex = .Cuaca Jakarta_
-╰═══════════════
-
 ╭════•›「 OTHER 」
-├≽️ *.Infotv*
-├ _Random jadwal tv_
-├≽️ *.Jadwaltv (nama channel)*
-├ _Ex = .Jadwaltv Rcti_
 ├≽️ *.Lirik*
 ├ _Ex = .Lirik Anji - Dia_
 ├≽️ *.Chord*
